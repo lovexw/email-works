@@ -1,0 +1,7 @@
+name = "email-collector"
+compatibility_date = "2024-03-01"
+main = "worker.js" 
+ 
+kv_namespaces = [
+  { binding = "EMAIL_DB", id = "be8e1d069f574b7ba75e3571a34b1c27" }
+]
