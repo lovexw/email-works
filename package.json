@@ -1,0 +1,2 @@
+npm init -y  # 若未初始化 
+npm install 
